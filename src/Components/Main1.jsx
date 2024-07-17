@@ -2,7 +2,7 @@ const Main1 = () => {
   return (
     <div className="flex flex-col items-center mx-14">
       <h1 className="mt-4 font-semibold text-lg md:text-2xl bg-gradient-to-r from-blue-600  to-indigo-400  text-transparent bg-clip-text">
-        The Worlds Most Configurable
+        The Worlds Most Configurable BEST
       </h1>
       <h1 className=" text-center text-2xl md:text-6xl mt-3 font-semibold">
         Travel & Expense Management Software
